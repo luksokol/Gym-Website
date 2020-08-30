@@ -89,7 +89,7 @@ background-color: rgb(245, 245, 245);
 
 /* HEADER */
 header {
-  background:rgba(0, 0, 0, 0.4) url('../images/pexels-victor-freitas-791763.jpg') no-repeat center center/cover;
+  background:rgba(0, 0, 0, 0.4) url('../images/jelmer-assink-gzeTjGu3b_k-unsplash.jpg') no-repeat center center/cover;
   background-blend-mode: darken;
   height: 100vh;
   color: #fff;
@@ -113,7 +113,7 @@ header .container {
 
 p {
   font-size: 2rem;
-  font-weight: 100;
+  font-weight: 700;
   padding-top: 20px;
 }
 
@@ -159,7 +159,7 @@ color: rgb(253, 172, 143);
 
 /* PARALLAX 2 */
 #pic2 {
-  background: rgba(0, 0, 0, 0.4) url('../images/pexels-pixabay-414029.jpg') no-repeat center center/cover;
+  background: rgba(0, 0, 0, 0.4) url('../images/risen-wang-20jX9b35r_M-unsplash.jpg') no-repeat center center/cover;
   background-blend-mode: darken;
   height: 80vh;
   position: relative;
