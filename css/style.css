@@ -308,6 +308,10 @@ footer i:hover {
 
 
 @media screen and (max-width: 768px) {
+  header {
+    background-attachment: scroll;
+  }
+
   .navbar {
     flex-direction: column;
   }
@@ -355,6 +359,10 @@ footer i:hover {
 
   #classes i {
     font-size: 2rem;
+  }
+
+  #pic2 {
+    background-attachment: scroll;
   }
 
   #pic2 .container h2 {
